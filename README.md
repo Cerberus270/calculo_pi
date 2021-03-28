@@ -1,2 +1,2 @@
 # calculo_pi
-Calculo del Valor de Pi, por medio de la sucecion del problema de Basilea
+Calculo del Valor de Pi, por medio de la sucesion del problema de Basilea
